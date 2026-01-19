@@ -28,7 +28,7 @@ paramiko==1.15.2
 pbr==0.10.8
 prettytable==0.7.2
 pyOpenSSL==0.15.1
-pyasn1==0.1.7
+pyasn1==0.6.2
 pycparser==2.10
 pycrypto==2.6.1
 pyrax==1.9.4
